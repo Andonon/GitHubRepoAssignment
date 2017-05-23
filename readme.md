@@ -1,0 +1,1 @@
+This Repository of for the May 22 2017 CodingDojo GitHub Repo Assignment. 
